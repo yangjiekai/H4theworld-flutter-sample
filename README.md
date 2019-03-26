@@ -3,7 +3,7 @@
 ### This project uses a sample WordPress website as H4theworld academy website. And basic structure
 
 <p>
-<img src="https://lh5.googleusercontent.com/2fUgNWcg2vGcL-FG-5XREJoy0cp7RXhD4CzJdvV_haW8vWhprjzna5q0iDgy2FenXfCbCS6Sgi3xGpjeM9KQ=w1299-h620-rw" alt="foo bar" title="Wordpress-client" />
+<img src="https://media.giphy.com/media/1zi3Me4RuxurLkKNbR/giphy.gif" alt="foo bar" title="Wordpress-client" />
 </p>
 for more information about WordPress rest API visit https://developer.wordpress.org/rest-api/ 
 
